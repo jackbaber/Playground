@@ -14,3 +14,7 @@ li.edit span {
 li.edit input {
     display: initial;
 }
+
+.emphasised {
+    font-weight: bold;
+}
